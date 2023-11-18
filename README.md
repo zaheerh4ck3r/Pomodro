@@ -101,7 +101,3 @@ npm run dev
 # build Pomotroid for production
 npm run build
 ```
-
-## License
-
-MIT &copy; [Christopher Murphy](https://github.com/Splode)
